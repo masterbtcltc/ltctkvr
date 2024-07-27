@@ -1,4 +1,4 @@
-# ltctkvr Look into Litecoin
+# ltctkvr Look into Litecoin Edition
 
 This repo hosts the Look into Litecoin edition of the BTCTKVR magazine, as launched in July 2024 during the Litecoin Summit. The anticipated launch date for this edition is October 13th, 2024. Feel free to share, print, modify, sell, translate the contents.
 
